@@ -1,3 +1,6 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-finance.git
+[submodule "packages/toolkit"]
+	path = packages/toolkit
+	url = https://github.com/quanttide/quanttide-finance-toolkit.git
