@@ -25,3 +25,6 @@
 [submodule "data/archive"]
 	path = data/archive
 	url = https://github.com/quanttide/quanttide-archive-of-finance-management.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-finance-management.git
