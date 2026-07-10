@@ -7,9 +7,6 @@
 [submodule "apps/qtcloud-finance"]
 	path = apps/qtcloud-finance
 	url = https://github.com/quanttide/qtcloud-finance.git
-[submodule "apps/qtadmin"]
-	path = apps/qtadmin
-	url = https://github.com/quanttide/qtadmin.git
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-finance-management.git
