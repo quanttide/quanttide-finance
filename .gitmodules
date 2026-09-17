@@ -40,3 +40,21 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-finance-management.git
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-finance-management.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-finance-management.git
+[submodule "data/brochure"]
+	path = data/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-finance-management.git
+[submodule "data/report"]
+	path = data/report
+	url = https://github.com/quanttide/quanttide-report-of-finance-management.git
+[submodule "data/library"]
+	path = data/library
+	url = https://github.com/quanttide/quanttide-library-of-finance-management.git
+[submodule "data/history"]
+	path = data/history
+	url = https://github.com/quanttide/quanttide-history-of-finance-management.git
