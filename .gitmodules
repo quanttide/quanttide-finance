@@ -28,3 +28,15 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-finance-management.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-finance-management.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-finance-management.git
+[submodule "docs/essay"]
+	path = docs/essay
+	url = https://github.com/quanttide/quanttide-essay-of-finance-management.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-finance-management.git
